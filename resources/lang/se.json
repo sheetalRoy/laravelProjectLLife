@@ -1,0 +1,10 @@
+{
+  "email_in_use": "E-postmeddelandet är redan i bruk!",
+  "forgot_code_subject": "Du begärde ditt användar-ID",
+  "forgot_code_text": "Kära användare,\n\rdu begär ditt användar-ID. Vänligen hitta det här:\n:code\n\nTack och ha en bra dag,\nYour Lungage - Team",
+  "register_subject": "Ditt konto har skapats",
+  "register_text": "Kära användare,\nVälkommen. Vänligen hitta det här:\n:code\n\nTack och ha en bra dag,\nYour Lungage - Team",
+  "results_subject": "Din lungåldersrapport är klar",
+  "results_text": "# Lungåldersrapport\n\nKära användare,\nVänligen hitta bifogad din Lung Age rapport.\n\nÄn du och ha en trevlig dag,\nYour Lungage - Team",
+  "results_filename": "Min rapport"
+}

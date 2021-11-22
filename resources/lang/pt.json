@@ -1,0 +1,11 @@
+{
+    "email_in_use": "O email já está em uso!",
+    "forgot_code_subject": "Você solicitou seu ID de usuário",
+    "forgot_code_text": "Querido usuário,\n\rvocê solicita seu ID do usuário. Encontre aqui:\n:code\n\nObrigado e tenha um bom dia,\nSeu Lungage - Equipe",
+    "register_subject": "Sua conta foi criada",
+    "register_text": "Querido usuário,\nbem vinda. Encontre aqui:\n:code\n\nObrigado e tenha um bom dia,\nSeu Lungage - Equipe",
+    "results_subject": "Seu relatório de idade pulmonar está pronto",
+    "results_text": "# Relatório da idade pulmonar\n\nQuerido usuário,\nEncontre em anexo o seu relatório sobre a idade pulmonar.\n\nDo que você e tenha um bom dia,\nSeu Lungage - Equipe",
+    "results_filename": "Meu relatório"
+
+}
